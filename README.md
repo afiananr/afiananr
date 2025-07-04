@@ -1,14 +1,22 @@
 ### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Afiana.
 
-An undergraduate student majoring in Information System. Used to be into UI/UX stuff... until life threw Kotlin and Laravel at me. Now I design buttons and develop them until i cry 😭😭.
-#### ⚡ Fun facts:
-- Currently in a love-hate relationship with frontend
-- I prefer light mode on VSCode — my friends literally complained about his eye damage while looking at my monitor. lmao
-- Most productive between 11 PM and 4 AM. Basically a night owl with Wi-Fi.
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;"> 
-    <h3>Tech Stack</h3>
+```js
+An undergraduate student majoring in Information System. Used to be
+into UI/UX stuff... until life threw Kotlin and Laravel at me. Now I
+design buttons and develop them until i cry 😭😭.
+
+⚡ Fun facts:
+- Currently in a love-hate relationship with frontend
+- I prefer light mode on VSCode — my friends literally complained
+about his eye damage while looking at my monitor. lmao
+- Most productive between 11 PM and 4 AM. Basically a night owl with
+Wi-Fi.
+```
+
+### Tech Stack
+<div>
     <img align="left" alt="bootstrap" title="bootstrap" width="30px" src="https://skillicons.dev/icons?i=bootstrap" /></a>
     <img align="left" alt="tailwind" title="tailwind" width="30px" src="https://skillicons.dev/icons?i=tailwind" /></a>
     <img align="left" alt="css" title="css" width="30px" src="https://skillicons.dev/icons?i=css" /></a>
@@ -20,8 +28,10 @@ An undergraduate student majoring in Information System. Used to be into UI/UX s
     <img align="left" alt="laravel" title="laravel" width="30px" src="https://skillicons.dev/icons?i=laravel" /></a>
     <img align="left" alt="mysql" title="mysql" width="30px" src="https://skillicons.dev/icons?i=mysql" /></a>
     <img align="left" alt="php" title="php" width="30px" src="https://skillicons.dev/icons?i=php" /></a>
-    <br style="clear: both;"> 
-    <h3>Tools</h3>
+</div><br>
+
+<h3>Tools</h3>
+<div>
     <img align="left" alt="androidstudio" title="androidstudio" width="30px" src="https://skillicons.dev/icons?i=androidstudio" /></a>
     <img align="left" alt="discord" title="discord" width="30px" src="https://skillicons.dev/icons?i=discord" /></a>
     <img align="left" alt="figma" title="figma" width="30px" src="https://skillicons.dev/icons?i=figma" /></a>
@@ -33,13 +43,9 @@ An undergraduate student majoring in Information System. Used to be into UI/UX s
     <img align="left" alt="postman" title="postman" width="30px" src="https://skillicons.dev/icons?i=postman" /></a>
     <img align="left" alt="vscode" title="vscode" width="30px" src="https://skillicons.dev/icons?i=vscode" /></a>
     <img align="left" alt="gradle" title="gradle" width="30px" src="https://skillicons.dev/icons?i=gradle" /></a>
-    <br style="clear: both;"> 
-    <h3>Github Analytics</h3>
+</div><br>
+
+<h3>Github Analytics</h3>
   <a href="https://github.com/afiananr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiananr&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiananr&layout=compact&langs_count=8&theme=algolia" />
   </a>
-<!--   <img height="180em" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" > -->
-</div>
-  <div style="flex-shrink: 0; margin-left: 20px;"> <img height="180em" src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" >
-  </div>
-</div>
