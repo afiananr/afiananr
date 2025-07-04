@@ -9,8 +9,8 @@ design buttons and develop them until i cry 😭😭.
 
 ⚡ Fun facts:
 - Currently in a love-hate relationship with frontend
-- I prefer light mode on VSCode — my friends literally complained
-about his eye damage while looking at my monitor. lmao
+- I prefer using light mode on VSCode — my friends literally
+complained about his eye damage while looking at my monitor. lmao
 - Most productive between 11 PM and 4 AM. Basically a night owl with
 Wi-Fi.
 ```
