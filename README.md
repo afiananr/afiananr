@@ -7,7 +7,7 @@ An undergraduate student majoring in Information System. Used to be
 into UI/UX stuff... until life threw Kotlin and Laravel at me. Now I
 design buttons and develop them until i cry 😭😭.
 
-⚡ Fun facts:
+🐳 Fun facts:
 - Currently in a love-hate relationship with frontend
 - I prefer using light mode on VSCode — my friends literally
 complained about his eye damage while looking at my monitor. lmao
@@ -46,5 +46,5 @@ Wi-Fi.
 
 <h3>Github Analytics</h3>
   <a href="https://github.com/afiananr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiananr&layout=compact&langs_count=8&theme=algolia" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiananr&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
