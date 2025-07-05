@@ -21,6 +21,7 @@ Wi-Fi.
     <img align="left" alt="java" title="java" width="30px" src="https://skillicons.dev/icons?i=java" /></a>
     <img align="left" alt="javascript" title="javascript" width="30px" src="https://skillicons.dev/icons?i=js" /></a>
     <img align="left" alt="laravel" title="laravel" width="30px" src="https://skillicons.dev/icons?i=laravel" /></a>
+    <img align="left" alt="node js" title="node js" width="30px" src="https://skillicons.dev/icons?i=nodejs" /></a>
     <img align="left" alt="php" title="php" width="30px" src="https://skillicons.dev/icons?i=php" /></a>
     <img align="left" alt="html" title="html" width="30px" src="https://skillicons.dev/icons?i=html" /></a>
     <img align="left" alt="css" title="css" width="30px" src="https://skillicons.dev/icons?i=css" /></a>
@@ -32,7 +33,7 @@ Wi-Fi.
 
 <h3>Tools</h3>
 <div>
-    <img align="left" alt="androidstudio" title="androidstudio" width="30px" src="https://skillicons.dev/icons?i=androidstudio" /></a>
+    <img align="left" alt="android studio" title="android studio" width="30px" src="https://skillicons.dev/icons?i=androidstudio" /></a>
     <img align="left" alt="inteilij idea" title="intellij idea" width="30px" src="https://skillicons.dev/icons?i=idea" /></a>
     <img align="left" alt="gradle" title="gradle" width="30px" src="https://skillicons.dev/icons?i=gradle" /></a>
     <img align="left" alt="vscode" title="vscode" width="30px" src="https://skillicons.dev/icons?i=vscode" /></a>
